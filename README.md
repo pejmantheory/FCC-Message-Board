@@ -1,6 +1,6 @@
 # Anonymous Message Board
-<img width="1124" alt="Screenshot 2023-06-20 at 7 40 23 AM" src="https://github.com/pejmantheory/FCC-Message-Board/assets/81389644/b0e9f3b8-0399-492b-b427-9b94a3f92dad">
-<img width="695" alt="Screenshot 2023-06-20 at 7 42 34 AM" src="https://github.com/pejmantheory/FCC-Message-Board/assets/81389644/81aea687-90ba-4640-b751-4873fdf8fee4">
+<img width="1124" alt="Screenshot 2023-06-20 at 7 40 23 AM" src="https://github.com/pejmantheory/FCC-Message-Board/assets/81389644/e69c0a26-797f-49b8-8abd-2ca1b81a66e9">
+<img width="695" alt="Screenshot 2023-06-20 at 7 42 34 AM" src="https://github.com/pejmantheory/FCC-Message-Board/assets/81389644/608ae24f-4cef-4082-b8df-b9387dde171c">
 
 (http://localhost:3002/)
 * Set NODE_ENV to test without quotes when ready to write tests and DB to your databases connection string (in .env)
